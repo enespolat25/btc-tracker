@@ -1,5 +1,7 @@
 # BTC FİYAT TAKİP
 
+[CANLI WEB SAYFASI](https://btc-price.surge.sh/)
+
 ![](./image.png)
 
 # Getting Started with Create React App
